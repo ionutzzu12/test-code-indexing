@@ -1,4 +1,4 @@
-# should appear in embeds v2
+# should appear in embeds v3
 import chalk from 'chalk';
 import inquirer from 'inquirer';
 import fs from 'node:fs';
