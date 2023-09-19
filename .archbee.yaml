@@ -1,3 +1,5 @@
-shadowDocs: .
+docsPath: ./init
+shadowDocs: 
+  - "index/*"
 structure:
   readme: README.md
