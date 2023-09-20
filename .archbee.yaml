@@ -1,4 +1,4 @@
 docsPath: ./init
 shadowDocs: 
   - "index/*"
-  - *
+  - "init/*"
