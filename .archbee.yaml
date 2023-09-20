@@ -1,6 +1,3 @@
 docsPath: ./init
-root: ./index
 shadowDocs: 
   - "index/*"
-structure:
-  readme: README.md
