@@ -1,4 +1,4 @@
 docsPath: ./init
 shadowDocs: 
   - "*"
-  - "init/index.ts"
+  - ".archbee.yaml"
