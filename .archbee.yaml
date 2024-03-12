@@ -1,3 +1,3 @@
-docsPath: ./index/smt2.md
+docsPath: ./index/
 shadowDocs:
-  - "index/index.ts"
+  - "index/processRepository.ts"
