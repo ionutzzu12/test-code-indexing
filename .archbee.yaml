@@ -2,3 +2,4 @@ docsPath: ./index/
 shadowDocs:
   - "index/processRepository.ts"
   - "index/index.ts"
+  - "index/*"
