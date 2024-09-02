@@ -3,4 +3,3 @@ shadowDocs:
   - "index/processRepository.ts"
   - "index/index.ts"
   - "index/*"
-  - "init/swagger.json"
