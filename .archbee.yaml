@@ -1,4 +1,4 @@
-docsPath: ./init/
+root: ./init
 shadowDocs:
   - "index/processRepository.ts"
   - "index/index.ts"
