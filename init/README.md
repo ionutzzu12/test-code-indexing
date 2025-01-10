@@ -1,6 +1,6 @@
 # README
 
-some document 3 (20 dec)
+some document 3 (10 ian dec)
 
 [init/swagger.json](init/swagger.json)&#x20;
 
