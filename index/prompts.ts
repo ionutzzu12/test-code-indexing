@@ -1,6 +1,9 @@
+# index/prompts.ts
+
+```typescript
 import { FileSummary, FolderSummary } from '../../../types.js';
 
-export const createCodeFileSummary = (
+export const createCodeFileSummary = ( aaaa
   filePath: string,
   projectName: string,
   fileContents: string,
@@ -81,3 +84,6 @@ export const folderSummaryPrompt = (
     Response:
   `;
 };
+
+```
+
