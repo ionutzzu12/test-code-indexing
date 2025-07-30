@@ -56,7 +56,7 @@
       <li>l2</li>
       </ul>
       <p>text</p>
-      <p><a href="./README.md">README</a> </p>
+      <p><a href="./README.md">README</a></p>
       <p>text</p>
       <p>text2</p>
     </td>
@@ -65,8 +65,8 @@
   </tr>
 </table>
 
-[readme](./README.md)
+<a href="./README.md" target="_blank">readme</a>
 
-- l1
+- l1 [list]()&#x20;
 - [README](./README.md)&#x20;
 
